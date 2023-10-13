@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-modal-content{
+    padding-bottom: 10px !important;
+}
